@@ -1,0 +1,34 @@
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\bin\Debug\netstandard2.0\ConversorMovil.deps.json
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\bin\Debug\netstandard2.0\ConversorMovil.dll
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\bin\Debug\netstandard2.0\ConversorMovil.pdb
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.csproj.AssemblyReference.cache
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.AssemblyInfoInputs.cache
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.AssemblyInfo.cs
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.dll
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\refint\ConversorMovil.dll
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.pdb
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\ref\ConversorMovil.dll
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\Views\ConversionPage.xaml.g.cs
+C:\Users\Programador\Documents\PROYECTOS LOCALES\ConversorMovil\ConversorMovil\obj\Debug\netstandard2.0\Views\StartPage.xaml.g.cs
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\bin\Debug\netstandard2.0\ConversorMovil.deps.json
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\bin\Debug\netstandard2.0\ConversorMovil.dll
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\bin\Debug\netstandard2.0\ConversorMovil.pdb
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.csproj.AssemblyReference.cache
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\Views\ConversionPage.xaml.g.cs
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\Views\StartPage.xaml.g.cs
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.AssemblyInfoInputs.cache
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.AssemblyInfo.cs
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.csproj.CoreCompileInputs.cache
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.dll
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\refint\ConversorMovil.dll
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\ConversorMovil.pdb
+C:\Users\Programador\source\repos\conversor-cm-to-mt\ConversorMovil\obj\Debug\netstandard2.0\ref\ConversorMovil.dll

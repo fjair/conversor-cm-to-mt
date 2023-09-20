@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGkGBd92x7lkLo/lu952TXGMapJ2S1vXfBcduvRc+EQx3PBn3FTZM6wLPrX773n2Qb6nJazOUCzD9yiV381sVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Programador\\source\\repos\\conversor-cm-to-mt\\ConversorMovil\\ConversorMovil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Programador\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Programador\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Programador\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Programador\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Programador\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
