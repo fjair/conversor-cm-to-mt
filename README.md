@@ -29,4 +29,4 @@ Si deseas contribuir, ¡eres bienvenido! Siéntete libre de realizar mejoras, co
 
 Este proyecto se encuentra bajo la licencia [MIT](LICENSE.md).
 
-¡Esperamos que esta aplicación te ayude a comprender mejor los conceptos básicos de Xamarin Forms y cómo crear interfaces de usuario simples en XAML!
+¡Espero que esta aplicación te ayude a comprender mejor los conceptos básicos de Xamarin Forms y cómo crear interfaces de usuario simples en XAML!
